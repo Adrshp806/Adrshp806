@@ -1,4 +1,6 @@
-Hi there, I'm Adarsh! 👋  
+**Hi there, I'm Adarsh! 👋**
+
+---
 Welcome to my GitHub!
 
 I'm passionate about data Analyst /engineering, MLOps, and machine learning. I love designing systems that transform raw, messy data into insights, models, and decisions. From building real-time streaming pipelines to automating ML workflows, I enjoy solving hard data problems and making things work end-to-end. Check out my projects to see what I’ve been working on!
