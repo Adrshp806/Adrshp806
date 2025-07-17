@@ -26,7 +26,7 @@ Highlights:
 - Modular pipeline with clean separation across ingestion, transformation, ML training, and analytics  
 - Used MLflow to track experiments and hyperparameters  
 - Created business-friendly Power BI dashboard connected to Synapse  
-🔗 [Link to project repository](https://github.com/Adrshp806/HomeCredit_DefaultRisk)
+🔗[Link to project repository](https://github.com/Adrshp806/HomeCredit_DefaultRisk)
 
 ---
 
