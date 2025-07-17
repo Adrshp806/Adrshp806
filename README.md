@@ -1,4 +1,4 @@
-**Hi there, I'm Adarsh! 👋**
+***Hi there, I'm Adarsh! 👋***
 
 ---
 Welcome to my GitHub!
